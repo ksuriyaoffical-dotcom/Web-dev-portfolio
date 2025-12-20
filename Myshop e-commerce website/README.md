@@ -10,4 +10,3 @@
 - Mobile-friendly hamburger menu
 - Search functionality
 
-## Folder Structure
